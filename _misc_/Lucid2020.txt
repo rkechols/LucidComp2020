@@ -1,0 +1,11 @@
+over 400 students
+5 main universities
+
+challenges:
+https://www.hackerrank.com/contests/lpc-2020/challenges
+
+results:
+https://1fmo8cfnaj.execute-api.us-east-2.amazonaws.com/programming-competition/leaderboard
+
+help email:
+lpc@lucidchart.com
